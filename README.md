@@ -3,7 +3,7 @@
 </p>
 
 # 🧩 Jogo da Memória
-Projeto do curso ProgramadorBR em que aprendi a desenvolver a lógica por trás do jogo da memória.
+Projeto do curso ProgramadorBR em que aprendi a desenvolver a lógica por trás do jogo da memória, dessa vez refatorado/atualizado para React.
 
 ## ⚙️ Funcionalidades
 
@@ -21,7 +21,7 @@ Projeto do curso ProgramadorBR em que aprendi a desenvolver a lógica por trás 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [React](https://reactjs.org/)
 
 ## 📝 Considerações
-Eu atualizei esse mesmo projeto para React, utilizando Classes.
-[Ver Atualização](https://github.com/Victtor-777/Memory-Game-React)
+Projeto atualizado para React, utilizando Classes.
